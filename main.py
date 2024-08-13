@@ -5,6 +5,8 @@
 @description: PyDash Project
 
 Everything always starts from somewhere =)
+
+initial Repository
 """
 
 from dash_client import DashClient
